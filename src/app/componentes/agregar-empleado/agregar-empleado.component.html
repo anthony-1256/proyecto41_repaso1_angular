@@ -1,0 +1,56 @@
+<div class="menu">
+    <div class="container mt-4">
+        <h3>Agregar empleados</h3>
+    
+        <form #form="ngForm" (ngSubmit)="guardar()">
+            <div class="mb-3">
+                <label for="">ID</label>
+                <input type="number" class="form-control" [(ngModel)]="trabajador.id" name="id" required>
+            </div>
+    
+            <div class="mb-3">
+                <label>Nombre</label>
+                <input type="text" class="form-control" [(ngModel)]="trabajador.nombre" name="nombre" required>
+            </div>
+    
+            <div class="mb-3">
+                <label>Edad</label>
+                <input type="number" class="form-control" [(ngModel)]="trabajador.edad" name="edad" required>
+            </div>
+    
+            <div class="mb-3">
+                <label>Sueldo</label>
+                <input type="number" class="form-control" [(ngModel)]="trabajador.sueldo" name="sueldo" required>
+            </div>
+    
+            <div class="mb-3">
+                <label>Antigüedad</label>
+                <input type="number" class="form-control" [(ngModel)]="trabajador.antiguedad" name="antiguedad" required>
+            </div>
+    
+            <div class="form-check mb-3">
+                <input class="form-check-input" type="checkbox" [(ngModel)]="esFememino" name="esFememino" id="esFememino">
+                <label class="form-check-label" for="esFememino">
+                    ¿Es femenino?
+                </label>
+            </div>
+    
+            <div class="mb-3">
+                <label>Foto</label><br>
+                <button type="button" class="btn btn-secondary" (click)="asignarFotoAleatoria()">Asignar foto aleatoria</button>
+                @if(trabajador.foto) {
+                    <div class="mt-2">
+                        <img [src]="trabajador.foto" class="img-thumbnail" width="150">
+                    </div>
+                }            
+            </div>
+    
+            <button type="submit" class="btn btn-primary" [disabled]="form.invalid">Guardar</button>
+        </form>
+        
+    </div>
+</div>
+
+<div>
+    {{mensajeExito}}
+</div>

@@ -1,0 +1,272 @@
+[
+    {
+        "nombre": "Andrea Márquez",
+        "edad": 29,
+        "puesto": "Desarrolladora Frontend",
+        "sueldo": 42000,
+        "antiguedad": 3,
+        "foto": "https://randomuser.me/api/portraits/women/1.jpg",
+        "id": 4157
+    },
+    {
+        "nombre": "Carlos Ramírez",
+        "edad": 35,
+        "puesto": "Administrador de Base de Datos",
+        "sueldo": 52000,
+        "antiguedad": 5,
+        "foto": "https://randomuser.me/api/portraits/men/2.jpg",
+        "id": 4114
+    },
+    {
+        "nombre": "Lucía Torres",
+        "edad": 31,
+        "puesto": "Ingeniera de Software",
+        "sueldo": 60000,
+        "antiguedad": 6,
+        "foto": "https://randomuser.me/api/portraits/women/3.jpg",
+        "id": 1794
+    },
+    {
+        "nombre": "Miguel Soto",
+        "edad": 27,
+        "puesto": "QA Tester",
+        "sueldo": 38000,
+        "antiguedad": 2,
+        "foto": "https://randomuser.me/api/portraits/men/4.jpg",
+        "id": 1596
+    },
+    {
+        "nombre": "Diana López",
+        "edad": 40,
+        "puesto": "Project Manager",
+        "sueldo": 68000,
+        "antiguedad": 8,
+        "foto": "https://randomuser.me/api/portraits/women/5.jpg",
+        "id": 5007
+    },
+    {
+        "nombre": "Juan Pérez",
+        "edad": 33,
+        "puesto": "Analista de Datos",
+        "sueldo": 50000,
+        "antiguedad": 4,
+        "foto": "https://randomuser.me/api/portraits/men/6.jpg",
+        "id": 7542
+    },
+    {
+        "nombre": "Mariana Herrera",
+        "edad": 26,
+        "puesto": "Desarrolladora Backend",
+        "sueldo": 45000,
+        "antiguedad": 2,
+        "foto": "https://randomuser.me/api/portraits/women/7.jpg",
+        "id": 4212
+    },
+    {
+        "nombre": "Fernando Díaz",
+        "edad": 37,
+        "puesto": "Arquitecto de Software",
+        "sueldo": 72000,
+        "antiguedad": 9,
+        "foto": "https://randomuser.me/api/portraits/men/8.jpg",
+        "id": 8542
+    },
+    {
+        "nombre": "Laura Sánchez",
+        "edad": 30,
+        "puesto": "Especialista en UX/UI",
+        "sueldo": 47000,
+        "antiguedad": 4,
+        "foto": "https://randomuser.me/api/portraits/women/9.jpg",
+        "id": 6784
+    },
+    {
+        "nombre": "David Núñez",
+        "edad": 32,
+        "puesto": "DevOps",
+        "sueldo": 55000,
+        "antiguedad": 5,
+        "foto": "https://randomuser.me/api/portraits/men/10.jpg",
+        "id": 1375
+    },
+    {
+        "nombre": "Patricia Ortega",
+        "edad": 34,
+        "puesto": "Scrum Master",
+        "sueldo": 60000,
+        "antiguedad": 6,
+        "foto": "https://randomuser.me/api/portraits/women/11.jpg",
+        "id": 6341
+    },
+    {
+        "nombre": "José González",
+        "edad": 28,
+        "puesto": "Soporte Técnico",
+        "sueldo": 37000,
+        "antiguedad": 2,
+        "foto": "https://randomuser.me/api/portraits/men/12.jpg",
+        "id": 5051
+    },
+    {
+        "nombre": "Daniela Castro",
+        "edad": 25,
+        "puesto": "Desarrolladora Móvil",
+        "sueldo": 44000,
+        "antiguedad": 1,
+        "foto": "https://randomuser.me/api/portraits/women/13.jpg",
+        "id": 7220
+    },
+    {
+        "nombre": "Luis Morales",
+        "edad": 39,
+        "puesto": "CTO",
+        "sueldo": 90000,
+        "antiguedad": 10,
+        "foto": "https://randomuser.me/api/portraits/men/14.jpg",
+        "id": 1410
+    },
+    {
+        "nombre": "Isabel Navarro",
+        "edad": 29,
+        "puesto": "Ingeniera de Seguridad",
+        "sueldo": 58000,
+        "antiguedad": 4,
+        "foto": "https://randomuser.me/api/portraits/women/15.jpg",
+        "id": 4299
+    },
+    {
+        "nombre": "Ricardo Jiménez",
+        "edad": 36,
+        "puesto": "Product Owner",
+        "sueldo": 65000,
+        "antiguedad": 7,
+        "foto": "https://randomuser.me/api/portraits/men/16.jpg",
+        "id": 2631
+    },
+    {
+        "nombre": "Gabriela Reyes",
+        "edad": 31,
+        "puesto": "Especialista en IA",
+        "sueldo": 61000,
+        "antiguedad": 5,
+        "foto": "https://randomuser.me/api/portraits/women/17.jpg",
+        "id": 1729
+    },
+    {
+        "nombre": "Diego Vázquez",
+        "edad": 27,
+        "puesto": "Ingeniero en Redes",
+        "sueldo": 48000,
+        "antiguedad": 3,
+        "foto": "https://randomuser.me/api/portraits/men/18.jpg",
+        "id": 6129
+    },
+    {
+        "nombre": "Sofía Rivas",
+        "edad": 33,
+        "puesto": "Consultora de TI",
+        "sueldo": 53000,
+        "antiguedad": 4,
+        "foto": "https://randomuser.me/api/portraits/women/19.jpg",
+        "id": 6958
+    },
+    {
+        "nombre": "Héctor Mendoza",
+        "edad": 38,
+        "puesto": "Ingeniero en la Nube",
+        "sueldo": 70000,
+        "antiguedad": 6,
+        "foto": "https://randomuser.me/api/portraits/men/20.jpg",
+        "id": 4837
+    },
+    {
+        "nombre": "Valeria Cruz",
+        "edad": 30,
+        "puesto": "Especialista en Big Data",
+        "sueldo": 59000,
+        "antiguedad": 4,
+        "foto": "https://randomuser.me/api/portraits/women/21.jpg",
+        "id": 7896
+    },
+    {
+        "nombre": "Álvaro Esquivel",
+        "edad": 34,
+        "puesto": "Ingeniero de Soporte",
+        "sueldo": 46000,
+        "antiguedad": 4,
+        "foto": "https://randomuser.me/api/portraits/men/22.jpg",
+        "id": 6696
+    },
+    {
+        "nombre": "Jimena Silva",
+        "edad": 26,
+        "puesto": "Diseñadora UX",
+        "sueldo": 42000,
+        "antiguedad": 2,
+        "foto": "https://randomuser.me/api/portraits/women/23.jpg",
+        "id": 5677
+    },
+    {
+        "nombre": "Ernesto Salgado",
+        "edad": 41,
+        "puesto": "Administrador de Sistemas",
+        "sueldo": 64000,
+        "antiguedad": 9,
+        "foto": "https://randomuser.me/api/portraits/men/24.jpg",
+        "id": 6425
+    },
+    {
+        "nombre": "Renata Carrillo",
+        "edad": 28,
+        "puesto": "Programadora Full Stack",
+        "sueldo": 55000,
+        "antiguedad": 3,
+        "foto": "https://randomuser.me/api/portraits/women/25.jpg",
+        "id": 3310
+    },
+    {
+        "nombre": "Mauricio Treviño",
+        "edad": 36,
+        "puesto": "Científico de Datos",
+        "sueldo": 75000,
+        "antiguedad": 5,
+        "foto": "https://randomuser.me/api/portraits/men/26.jpg",
+        "id": 9877
+    },
+    {
+        "nombre": "Alejandra Beltrán",
+        "edad": 32,
+        "puesto": "Consultora DevOps",
+        "sueldo": 61000,
+        "antiguedad": 6,
+        "foto": "https://randomuser.me/api/portraits/women/27.jpg",
+        "id": 1103
+    },
+    {
+        "nombre": "Pablo Méndez",
+        "edad": 29,
+        "puesto": "Especialista en Blockchain",
+        "sueldo": 67000,
+        "antiguedad": 4,
+        "foto": "https://randomuser.me/api/portraits/men/28.jpg",
+        "id": 9505
+    },
+    {
+        "nombre": "Carmen Aguilar",
+        "edad": 30,
+        "puesto": "Administradora de Proyectos",
+        "sueldo": 56000,
+        "antiguedad": 4,
+        "foto": "https://randomuser.me/api/portraits/women/29.jpg",
+        "id": 8314
+    },
+    {
+        "nombre": "Jorge Valdés",
+        "edad": 40,
+        "puesto": "Director de Tecnología",
+        "sueldo": 95000,
+        "antiguedad": 11,
+        "foto": "https://randomuser.me/api/portraits/men/30.jpg",
+        "id": 4270
+    }
+]
